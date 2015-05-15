@@ -1,5 +1,4 @@
 FROM npateriyainsecure/php-hello-world
-ADD output /app
 
 RUN [ -f /app/run.sh ] && chmod +x /app/run.sh || true
 
