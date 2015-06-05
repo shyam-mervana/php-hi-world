@@ -13,7 +13,7 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo_green.png" alt="logo.png"/>
+	<img id="logo" src="logo_blue.png" alt="logo.png"/>
 	<h1><?php echo "Hello, World!!"; ?></h1>
 </body>
 </html>
